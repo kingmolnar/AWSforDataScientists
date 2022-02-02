@@ -3,14 +3,14 @@
 Introduction to Amazon Web Services from a data science perspective. Participants learn how to use some of the services specific to data science, machine learning, and artificial intelligence.  
 The workshop comprises four segments
 
-**Day 1**
+**Morning Session**
 
 1.	Introduction to AWS core services for compute, data storage, and access management.
 2.    Data Lakes
 2.	Hands-on exercise with Amazon Athena
 4.    Hands-on exercise with AWS Glue Jobs
 
-**Day 2**
+**Afternoon Session**
 
 1.    Overview of Machine Learning and Artificial Intelligence services
 2.    Introduction to Amazon SageMaker
@@ -18,7 +18,7 @@ The workshop comprises four segments
 4.	Demonstration of pre-trained AWS AI services for text, image, and video analysis. 
 
 
-## Preperation
+## Preparation
 1. Create an AWS account (if you don't have one already)
 2. Install the AWS command line tool on your computer (you should also have Python installed)
       - Instructions for Windows https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html
