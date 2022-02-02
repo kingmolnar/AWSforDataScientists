@@ -1,5 +1,7 @@
 # AWS for Data Scientists
 
+**From 2021: select "main" branch for most recent version.**
+
 Introduction to Amazon Web Services from a data science perspective. Participants learn how to use some of the services specific to data science, machine learning, and artificial intelligence.  
 The workshop comprises four segments
 
